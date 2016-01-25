@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. how to create a launch image for the app.
+2. how to add sound effects (i.e. a 'click' sound when user presses something)
 
 ## Video Walkthrough 
 
