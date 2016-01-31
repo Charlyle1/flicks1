@@ -2,7 +2,7 @@
 
 Flicks is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: 1 hours spent in total
+Time spent: 4 hours spent in total
 
 ## User Stories
 
@@ -10,8 +10,8 @@ The following **required** functionality is complete:
 
 - [x] User can view a list of movies currently playing in theaters from The Movie Database.
 - [x] Poster images are loaded using the UIImageView category in the AFNetworking library.
-- [ ] User sees a loading state while waiting for the movies API.
-- [ ] User can pull to refresh the movie list.
+- [x] User sees a loading state while waiting for the movies API.
+- [x] User can pull to refresh the movie list.
 
 The following **optional** features are implemented:
 
@@ -34,13 +34,17 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/d6rxj55.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+(submission 1)
+<img src='http://i.imgur.com/d6rxj55.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough' />
+
+(submission 2)
+<img src='http://i.imgur.com/LiFZ0kg.gif' title='Video Walkthrough 2' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-No challenges so far.
+I had some difficulties installing pods at first.
 
 ## License
 
